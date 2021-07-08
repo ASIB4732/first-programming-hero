@@ -1,6 +1,7 @@
 
 body{
     font-family: poppins,sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 50px;
@@ -19,4 +20,13 @@ img{
     margin-left: 5%;
     padding-left: 2%;
 
+}
+.section{
+    background-image: url("new folder/download.jpg");
+    background-repeat:no-repeat;
+    background-size: 1200px;
+    
+}
+section{
+    height: 500px;
 }
