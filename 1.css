@@ -9,12 +9,11 @@ h1{
 .name-highlight{
     color: orange;
 }
-.div{
+div{
     width: 40%;
     float: left;
     margin-left: 5%;
     padding-left: 2%;
-
 }
 .section{
     background-image: url("new folder/download.jpg");
@@ -44,4 +43,22 @@ img{
 }
 a:visited{
     color: orange;
+}
+.color{
+    color: orange;
+}
+.div-xxx{
+    box-shadow:10px 10px 40px grey;
+    border-radius: 7px;
+    height: 75%;
+}
+#border-line{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, red, blue;
+    border-image-slice:1;
+
+}
+
+#asdf{
+    
 }
