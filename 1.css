@@ -54,4 +54,15 @@ a:visited{
 }
 #border-line{
     border-left: 7px solid red ;
+    border-image: linear-gradient(blue,red);
+    border-image-slice: 1;
 }
+#id{
+    border-left: 7px solid ;
+    border-image: linear-gradient(red,blue);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 15px;}
+
