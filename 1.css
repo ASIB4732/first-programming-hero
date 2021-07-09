@@ -64,5 +64,8 @@ a:visited{
 }
 footer p{
     text-align: center;
-    font-size: 15px;}
-
+    font-size: 15px;
+}
+#black{
+    background-image: url(new folder/picture.png);
+}
